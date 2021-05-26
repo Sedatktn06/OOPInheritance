@@ -9,7 +9,7 @@ public class Main {
 		Instructor instructor2=new Instructor(130, "Add Student", 1, "Mehmet", "Karadağ", 35, "JAVA","engin@gmail.com");
 		
 		Student student=new Student("Erciyes Üniversitesi", 2, "Sedat", "Kotan", 23, "JAVA","sedat@gmail.com");
-		
+		Student student2=new Student("Erciyes Üniversitesi", 2, "Sedat", "Kotan", 23, "JAVA","sedat@gmail.com");
 		
 		InstructorManager instructorManager=new InstructorManager();
 		
