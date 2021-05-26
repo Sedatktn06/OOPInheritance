@@ -20,10 +20,11 @@ public class Main {
 		
 		
 		StudentManager studentManager=new StudentManager();
+		StudentManager studentManager2=new StudentManager();
 		
 		studentManager.register(student);
 		studentManager.login(student);
-		
+		studentManager.login(student2);
 	}
 
 }
