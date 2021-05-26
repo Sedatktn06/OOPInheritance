@@ -16,6 +16,7 @@ public class Main {
 		instructorManager.login(instructor);
 		instructorManager.register(instructor);
 		instructorManager.login(instructor2);
+		instructorManager.register(instructor2);
 		
 		
 		StudentManager studentManager=new StudentManager();
